@@ -1,0 +1,2 @@
+# SIPSmart
+OpenSIPS trunk manager
